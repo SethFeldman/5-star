@@ -1,0 +1,15 @@
+h1 {
+  font-family: "Anton', sans-serif";
+  font-size: 6vw;
+  color: #201EEB;
+  text-align:left;
+}
+
+
+header {
+  background-color: #000000;
+  background-image:url("basketball.jpg");
+  padding: 20vw 2em 6em 2em;
+  background-position: center center;
+  background-size: cover;
+}
